@@ -1,5 +1,4 @@
 origin: https://github.com/samuelneff/MimeTypeMap
-origin2: https://github.com/lettucebo/MimeTypeMap.List
 
 # MimeTypeMap
 
