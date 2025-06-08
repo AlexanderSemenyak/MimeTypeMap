@@ -1,3 +1,5 @@
+origin: https://github.com/samuelneff/MimeTypeMap
+
 # MimeTypeMap
 
 English | [简体中文](README-zh-Hans.md)
